@@ -4,3 +4,20 @@ Module of this App:<br>
 1. Main Module<br>
  . Dashboard<br>
  <img src="images/Skills Final.png"><br><br>
+ . Sign In<br>
+ <img src="images/Sing In.png"><br><br> 
+ . Sign Up<br>
+ <img src="images/Sign Up.png"><br><br> 
+ . Recent Jobs<br>
+  <img src="images/Recent Job.png"><br><br> 
+  
+  2. Trainee Module <br>
+   . Dashboard<br>
+   <img src="images/T-Dashboard.png"><br><br>
+   . Trainee profile
+   <img src="images/T- Profile.png"><br><br>
+   . Trainee Survey
+    <img src="images/T-Survay.png"><br><br>
+    <img src="images/T-Survay -2.png"><br><br>
+    
+  
