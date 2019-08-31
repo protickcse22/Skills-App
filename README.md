@@ -32,7 +32,7 @@ Module of this App:<br>
     . Dashboard<br>
    <img src="images/Dashboard.png"><br><br>
    . Want job<br>
-   <img src="images/Job Want.png"><br><br>
+   <img src="images/Job Want.png"><br>
    . New Job<br>
     <img src="images/New Job.png"<br><br>
    . New Training<br>
