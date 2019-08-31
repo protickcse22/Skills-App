@@ -23,9 +23,9 @@ Module of this App:<br>
   <h3 style="text-align: center;"> 3. Volunteer Module <h3><br>
    . Dashboard<br>
    <img src="images/V Dashboard.png"><br><br>
-   . Trainee profile<br>
+   . Volunteer profile<br>
    <img src="images/T- Profile.png"><br><br>
-   . Trainee Survey<br>
+   . Volunteer Survey<br>
     <img src="images/Volunteer Survey.png"><br><br>
  
    <h3 style="text-align: center;"> 3. Training center Module <h3><br>
