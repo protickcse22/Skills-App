@@ -14,9 +14,9 @@ Module of this App:<br>
   2. Trainee Module <br>
    . Dashboard<br>
    <img src="images/T-Dashboard.png"><br><br>
-   . Trainee profile
+   . Trainee profile<br>
    <img src="images/T- Profile.png"><br><br>
-   . Trainee Survey
+   . Trainee Survey<br>
     <img src="images/T-Survay.png"><br><br>
     <img src="images/T-Survay -2.png"><br><br>
     
